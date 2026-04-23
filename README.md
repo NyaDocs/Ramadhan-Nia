@@ -70,7 +70,7 @@ I'm building toward a **Business Analyst role** — intentionally, project by pr
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
-| [TensorFlow Developer Certificate]](https://www.credential.net/dca32069-e4b9-4c04-b49b-ce17906ced6c) | TensorFlow | 2024 |
+| [TensorFlow Developer Certificate](https://www.credential.net/dca32069-e4b9-4c04-b49b-ce17906ced6c) | TensorFlow | 2024 |
 | [Google Data Analytics Certificate](https://coursera.org/share/8882152409c0437cbdb1672a436ca308) | Google | 2023 |
 | [Machine Learning Cohort](https://drive.google.com/file/d/1LgRI1t4A0JLvH0UHRlfoCT3feTesz9QT/view?usp=drive_link) | Bangkit Academy | 2024 |
 
